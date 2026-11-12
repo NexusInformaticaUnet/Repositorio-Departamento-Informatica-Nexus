@@ -14,8 +14,10 @@ Este repositorio se encuentra estructurado por carpetas correspondientes a las d
 
 ## Materias Disponibles
 
-### Computación I (Código: `0415102T`)
 Repositorio oficial que recopila el material pedagógico didáctico, guías de estudio, normativas y recursos audiovisuales de apoyo correspondientes a la materia, diseñado para orientar a los estudiantes que cursan la asignatura en su trayecto académico inicial.
+
+**Acceso al material completo (Google Drive):**  
+[Abrir carpeta de recursos](https://drive.google.com/drive/folders/18hJ6dBBlxOZIgqNBUESwbrz0Ih2IsA04?usp=drive_link)
 
 ---
 
