@@ -22,7 +22,7 @@ Repositorio oficial que recopila el material pedagógico didáctico, guías de e
 
 | Recurso | Enlace |
 |---|---|
-| 📁 Carpeta completa (Google Drive) | [Acceder](https://drive.google.com/drive/folders/18hJ6dBBlxOZIgqNBUESwbrz0Ih2IsA04?usp=drive_link) |
+| 📁 Curso Completo (Programación en C) | [Acceder](https://drive.google.com/drive/folders/18hJ6dBBlxOZIgqNBUESwbrz0Ih2IsA04?usp=drive_link) |
 
 ---
 
